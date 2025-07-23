@@ -1,5 +1,5 @@
 # Excel_Skills_Proff
-##These two projects show some of the skills I have acquired regarding using Excel for Data Science.
+## These two projects show some of the skills I have acquired regarding using Excel for Data Science.
 Feel free to explore the two folder in here, any feedback is welcome. 
 
 SQL Projects and PowerBI project coming soon. 

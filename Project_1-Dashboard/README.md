@@ -1,13 +1,13 @@
-![dashboard](https://github.com/user-attachments/assets/f8d16960-aa5a-441c-944a-40c962a64b14)
 ## Excel Salary Dashboard
 
-Welcome! This dashboard helps job seekers explore real‑world data‑science salaries so you can negotiate confidently and plan your next move.
+Welcome! This dashboard helps job seekers explore real‑world data‑science salaries so you can negotiate confidently and plan your next move.   
 
+![dashboard](https://github.com/user-attachments/assets/f8d16960-aa5a-441c-944a-40c962a64b14)
 ---
 
 ## Dashboard File
 
-Download and explore: [Data Science Dashboad.xlsx](Data Science Dashboad.xlsx)
+Download and explore: [Data Science Dashboard.xlsx](Data%20Science%20Dashboard.xlsx)
 
 ---
 
@@ -54,18 +54,18 @@ Download and explore: [Data Science Dashboad.xlsx](Data Science Dashboad.xlsx)
   )
 )
 ```
--**Purpose**: Returns median salary by title, country & schedule
+-**Purpose**: Returns median salary by title, country & schedule   
 -**Technique**: Array formula with multi‑criteria filtering
 
-📉 Dashboard Implementation
-![median salary](https://github.com/user-attachments/assets/daa0cee6-b3bb-45b6-a213-eb13cabc4442) width="400" height="500" alt="Salary Dashboard Title">
+📉 Dashboard Implementation   
+![median salary](https://github.com/user-attachments/assets/daa0cee6-b3bb-45b6-a213-eb13cabc4442)
 
 ### 4️⃣ Unique Schedule Types
 
 ```
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
 ```
--**Purpose**: Lists clean job schedule categories
+-**Purpose**: Lists clean job schedule categories   
 -**Technique**: FILTER() to remove combined or blank entries
 
 📉 Dashboard Implementation:

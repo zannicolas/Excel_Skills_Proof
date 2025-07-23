@@ -45,7 +45,8 @@ Welcome! This project explores the data science job market using real-world data
 3. **Load** cleaned tables into Excel.
 
 #### Chart & Insights
-![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+![salary vs skills](https://github.com/user-attachments/assets/3fdd0f0e-ebb6-4a82-a0d5-db1599138085)
+
 
 - **Insight:** Roles with more skills (e.g., Senior Data Engineer) tend to pay more.  
 - **Why it matters:** Building a broader skill set can boost your earning potential.

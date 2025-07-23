@@ -11,8 +11,6 @@ Welcome! This project explores the data science job market using real-world data
 3. **Which skills matter most for getting hired?**  
 4. **How much do the top 10 skills pay?**
 
-> *The question titles and images below remain unchanged.*
-
 ---
 
 ## Tools & Techniques Used
@@ -63,7 +61,7 @@ Welcome! This project explores the data science job market using real-world data
 2. Use DAX to calculate median salaries for the U.S. and other countries.
 
 #### Chart & Insights
-![2_Project_Analysis_Chart2.png](/0_Resources/Images/2_Project_Analysis_Chart2.png)
+![salary analysis](https://github.com/user-attachments/assets/a64f181d-0195-4273-b3e6-ff8d43bc9f13)
 
 - **Insight:** U.S. roles generally pay more, especially in high‑tech jobs.  
 - **Why it matters:** Knowing these differences helps with salary negotiations and planning.
@@ -80,7 +78,7 @@ Welcome! This project explores the data science job market using real-world data
 2. Create relationships and measures in Power Pivot.
 
 #### Chart & Insights
-![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)
+![skill job analyst](https://github.com/user-attachments/assets/1082e105-3c0b-407a-bb20-356948852db6)
 
 - **Insight:** SQL and Python are top skills. Cloud platforms like AWS/Azure are also in high demand.  
 - **Why it matters:** Focusing on these skills can improve your job prospects.
@@ -97,7 +95,7 @@ Welcome! This project explores the data science job market using real-world data
 2. Customize axes, titles, and markers.
 
 #### Chart & Insights
-![2_Project_Analysis_Chart4.png](/0_Resources/Images/2_Project_Analysis_Chart4.png)
+![skill salary analysis](https://github.com/user-attachments/assets/3577144b-3475-48ef-b906-f3defe2ec612)
 
 - **Insight:** High‑paying skills include Python, SQL, and Oracle.  
 - **Why it matters:** Investing time in these skills can lead to better salaries.

@@ -7,7 +7,7 @@ Welcome! This dashboard helps job seekers explore real‑world data‑science sa
 
 ## Dashboard File
 
-Download and explore: [Data Science Dashboard.xlsx](Data%20Science%20Dashboard.xlsx)
+Download and explore: [Data Science Dashboard.xlsx](Data_Science_Dashboad.xlsx)
 
 ---
 

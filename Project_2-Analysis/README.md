@@ -9,14 +9,12 @@ As a former job seeker, I’ve always been surprised by the lack of data explori
 
 To understand the data science job market, I asked the following:
 
-1. **Do more skills get you better pay?**
-2. **What’s the salary for data jobs in different regions?**
-3. **What are the top skills of data professionals?**
-4. **What’s the pay for the top 10 skills?**
+1. **Do additional skills translate to higher wages?**
+2. **How salaries compare through out contries?**
+3. **What skill matter most to get hire?**
+4. **How much they pay for the top 10 skills?**
 
-### Excel Skills Used
-
-The following Excel skills were utilized for analysis:
+### Excel Skills Used for the Project
 
 - **📊 Pivot Tables**
 - **📈 Pivot Charts**
@@ -26,7 +24,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023
 
 It includes detailed information on:
 
@@ -35,7 +33,7 @@ It includes detailed information on:
 - **📍 Locations**
 - **🛠️ Skills**
 
-## 1️⃣ Do more skills get you better pay?
+## 1️⃣ Do additional skills translate to higher wages?
 
 ### 🔍 Skill: Power Query (ETL)
 
@@ -80,7 +78,7 @@ It includes detailed information on:
 
 - This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
 
-## 2️⃣ What’s the salary for data jobs in different regions?
+## 2️⃣ How salaries compare through out contries?
 
 ### 🧮 Skills: PivotTables & DAX
 
@@ -116,7 +114,7 @@ It includes detailed information on:
 
 - These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
 
-## 3️⃣ What are the top skills of data professionals?
+## 3️⃣ What skill matter most to get hire?
 
 ### 🔧 Skill: Power Pivot
 
@@ -150,7 +148,7 @@ It includes detailed information on:
 
 - Understanding prevalent skills in the industry not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.
 
-## 4️⃣ What’s the pay of the top 10 skills?
+## 4️⃣ How much they pay for the top 10 skills?
 
 ### 📊 Skill: Advanced Charts (Pivot Chart)
 

@@ -2,6 +2,8 @@
 
 Welcome! This project explores the data science job market using real-world data. My goal is to find out which skills matter most, how they affect pay, and how salaries vary by role and location.
 
+Download and explore: [Project_2_Analysis.xlsx](Project_2_Analysis.xlsx)
+
 ---
 
 ## Questions to Answer
